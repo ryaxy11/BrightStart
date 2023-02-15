@@ -16,4 +16,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ryaxy11/brightstarts-goncalocarvalho:${{ github.run_number }}
+        tags: ryaxy11/brightstarts-goncalcarvalho:${{ github.run_number }}
